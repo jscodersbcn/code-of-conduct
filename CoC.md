@@ -15,9 +15,8 @@ Serán consideradas conductas abusivas la siguientes:
 * Los organizadores pedimos la colaboración de todos los asistentes, así pues si sufres algún tipo de conducta abusiva u observas que alguien puede estar siendo víctima de ella, te rogamos encarecidamente que nos lo comuniques, ya sea a alguno de los organizadores directamente o escribiendonos a jscodersbcn@gmail.com.
 
 ## EQUIPO ORGANIZADOR
-* [David Marín](https://twitter.com/DDMarin94)
+* Maryam Malek
+* Oscar Leon
+* [Joan Albert Segura](https://twitter.com/joanalbertsr)
 * [Núria Soriano](https://twitter.com/pincfloit)
 * [Mario Terron](https://twitter.com/marioterron_)
-* [Marc Vergara](https://twitter.com/Marcvf23)
-
-
